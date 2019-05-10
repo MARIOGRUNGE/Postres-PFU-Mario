@@ -1,0 +1,55 @@
+<html>
+<center>
+<BASEFONT SIZE=3>
+<FONT FACE="verdana">
+<head>
+</head>
+<body background="fondodepantalla.jpg"> 
+<body>
+<marquee> P F U </marquee>
+<h2>Una breve introducción</h2>
+
+<p><h4>Postres PFU es una compañía neonata independiente de centro derecha, la cual busca suplir una necesidad de capital para sobreponer la deuda que representa la universidad, cabe mencionar que todos sus empresarios y empleados son personas humildes con ganas de prosperar en este mundo.</p></h4>
+</center>
+
+<p><FONT FACE="Harlow Solid Italic"><h2>Disfruta de nuestros sabrosos y variados postres:</p></FONT FACE="Harlow Solid Italic"></h2>
+
+<p><h3>Empirismo (Limón)</p></h3>
+
+<p><h3>Primíparo (Mora)</p></h3>
+
+<p><h3>La copia (Tres leches)</p></h3>
+
+<DIV STYLE="position:absolute; top:200px; left:1100px; visibility:visible z-index:1"> 
+<IMG height="150" SRC="fuego.gif" width="150"> 
+</div> 
+
+<p><h3>Bola 8 (Brownie y chocolate)</p></h3>
+
+<p><h3>Celacho (Maní y almendras)</p></h3>
+
+<table class="egt">
+
+  <tr>
+    <td><h3>tener en cuenta que:</h3></td>
+  </tr>
+  <tr>
+    <td><h3>-Los postres se pueden derretir</h3></td>
+  </tr>
+  <tr>
+    <td><h3>-Me los pueden robar</h3></td>
+  </tr>
+  <tr>
+    <td><h3>-Puede hacer pedidos antes</h3></td>
+  </tr>
+</table>
+
+<center><p><h2> CADA POSTRE ES A 5K (5000 PARA LOS VIEJOS)</center></p></h2>
+
+<DIV STYLE="position:absolute; top:600px; left:900px; visibility:visible z-index:1"> 
+<IMG height="100" SRC="PERRO PFU.jpg" width="100"> 
+</div> 
+
+<center><img src="P F U image.jpg" width=250 height=250></center>
+</body>
+</html>
